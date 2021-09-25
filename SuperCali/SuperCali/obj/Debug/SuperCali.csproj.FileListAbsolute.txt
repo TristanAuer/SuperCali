@@ -1,0 +1,7 @@
+C:\the academy\ElevenFiftyProjects\1_Gold Badge\superC#\SuperCali\SuperCali\bin\Debug\SuperCali.exe.config
+C:\the academy\ElevenFiftyProjects\1_Gold Badge\superC#\SuperCali\SuperCali\bin\Debug\SuperCali.exe
+C:\the academy\ElevenFiftyProjects\1_Gold Badge\superC#\SuperCali\SuperCali\bin\Debug\SuperCali.pdb
+C:\the academy\ElevenFiftyProjects\1_Gold Badge\superC#\SuperCali\SuperCali\obj\Debug\SuperCali.csproj.AssemblyReference.cache
+C:\the academy\ElevenFiftyProjects\1_Gold Badge\superC#\SuperCali\SuperCali\obj\Debug\SuperCali.csproj.CoreCompileInputs.cache
+C:\the academy\ElevenFiftyProjects\1_Gold Badge\superC#\SuperCali\SuperCali\obj\Debug\SuperCali.exe
+C:\the academy\ElevenFiftyProjects\1_Gold Badge\superC#\SuperCali\SuperCali\obj\Debug\SuperCali.pdb
